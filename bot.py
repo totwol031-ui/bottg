@@ -6,7 +6,7 @@ from telebot import types
 BOT_TOKEN = "7774651689:AAEDDVX6QhBdlDQFRxdfDQ5ubexztx8NF4E"
 
 # 👑 ID админов
-ADMINS = [6605628273,1723545550 ]
+ADMINS = [6144666275,1723545550 ]
 
 bot = telebot.TeleBot(BOT_TOKEN, parse_mode="HTML")
 
